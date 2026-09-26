@@ -86,7 +86,7 @@ server/environment configurations.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/DhirajCloud
+- Email: dheerajd172@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dhiraj-dwivedi/
 
 ---
