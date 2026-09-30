@@ -1,433 +1,462 @@
 <div align="center">
 
-# Dhiraj Dwivedi
+<img src="./assets/hero-dark.svg" width="100%" />
 
-### DevOps Engineer · Cloud Automation · CI/CD
+<br/>
 
-**GCP · AWS · Kubernetes · Terraform · Docker · GitHub Actions · Python**
+<a href="https://github.com/DhirajCloud">
+<img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:dheerajd172@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
-I build and automate reliable cloud infrastructure, deployment pipelines, and
-containerized platforms with a focus on **automation, reliability, security, and cost optimization**.
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge\&logo=github)](https://github.com/DhirajCloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj_Dwivedi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhiraj-dwivedi/)
-[![Email](https://img.shields.io/badge/Email-dheerajd172%40gmail.com-EA4335?style=for-the-badge\&logo=gmail)](mailto:dheerajd172@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Automation+Engineer;GCP+%7C+AWS+%7C+Kubernetes;Terraform+%7C+Docker+%7C+CI%2FCD;Automating+Infrastructure.+Improving+Reliability." />
 
 </div>
 
 ---
 
-## About
+# `whoami`
 
-I'm a **DevOps Engineer / Cloud Engineer with 4 years of enterprise experience**
-working across **Google Cloud Platform and AWS**.
+```yaml
+name: Dhiraj Dwivedi
+role: DevOps Engineer
+focus:
+  - Cloud Infrastructure
+  - DevOps Automation
+  - CI/CD
+  - Kubernetes
+  - Infrastructure as Code
 
-My work focuses on turning manual infrastructure and deployment processes into
-repeatable, automated workflows using **Infrastructure as Code, CI/CD,
-containerization, Kubernetes, and scripting**.
+primary_cloud: Google Cloud Platform
+secondary_cloud: AWS
 
-I enjoy solving infrastructure problems, improving deployment reliability,
-reducing operational toil, and building systems that are easier to operate
-and scale.
+automation:
+  - Terraform
+  - Python
+  - Bash
+  - GitHub Actions
 
-### Engineering Focus
+containers:
+  - Docker
+  - Kubernetes
+  - GKE
 
-* ☁️ Cloud infrastructure and automation
-* 🔄 CI/CD pipeline design and deployment automation
-* 🏗️ Infrastructure as Code with Terraform
-* 🐳 Docker containerization
-* ☸️ Kubernetes / GKE workloads
-* 🐍 Python & Bash automation
-* 🐧 Linux infrastructure operations
-* 🔐 IAM, security hardening and least-privilege practices
-* 📊 Reliability, monitoring and incident response
-* 💰 Cloud cost optimization
-
----
-
-## Professional Impact
-
-| Area            | Experience                                         |
-| --------------- | -------------------------------------------------- |
-| ☁️ Cloud        | GCP & AWS                                          |
-| 🚀 Deployment   | Reduced release cycles from 2 hours to <20 minutes |
-| 🛡️ Reliability | Supported systems operating at 99.99% uptime       |
-| 💰 Optimization | Delivered infrastructure cost reductions           |
-| ⚙️ Automation   | Python, Bash, Terraform & CI/CD                    |
-| 🐳 Containers   | Docker & Kubernetes/GKE                            |
-| 🔐 Security     | IAM, hardening & vulnerability remediation         |
-| 🏢 Enterprise   | 4 years of cloud & infrastructure experience       |
-
----
-
-## Technology Stack
-
-### Cloud
-
-<p>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
-**GCP:** Compute Engine · VPC · IAM · Cloud Load Balancing · Cloud Storage ·
-Cloud Functions · GKE · BigQuery
-
-**AWS:** EC2 · S3 · IAM · VPC · CloudWatch · ELB
-
-### DevOps & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-### Automation & Development
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### Data & Cloud Services
-
-`BigQuery` · `Dataflow` · `Cloud Composer` · `SQL`
-
-### Networking & Security
-
-`VPC` · `Subnets` · `DNS` · `Load Balancing` · `Firewall Rules` · `IAM`
-· `Least Privilege` · `Security Hardening`
-
----
-
-## Featured Engineering Projects
-
-### 🚀 Zero-Downtime Deployment System
-
-A production-style deployment platform demonstrating automated application
-delivery with containerization and Kubernetes.
-
-**Focus areas**
-
-* Docker containerization
-* Kubernetes deployments
-* CI/CD automation
-* Rolling deployment strategy
-* Application health checks
-* Deployment validation
-* Rollback-oriented deployment design
-
-**Architecture**
-
-```text
-Developer
-    │
-    ▼
-Git Repository
-    │
-    ▼
-CI/CD Pipeline
-    │
-    ├── Test
-    ├── Build
-    └── Validate
-    │
-    ▼
-Docker Image
-    │
-    ▼
-Container Registry
-    │
-    ▼
-Kubernetes
-    │
-    ├── Current Version
-    └── New Version
-            │
-            ▼
-      Rolling Deployment
-            │
-            ▼
-      Health Verification
-            │
-            ▼
-        Application
-```
-
-🔗 **Repository:**
-https://github.com/DhirajCloud/zero-downtime-deployment
-
----
-
-### ☁️ DevOpsForge Cloud Platform
-
-An end-to-end cloud-native platform demonstrating infrastructure provisioning,
-containerization, Kubernetes deployment, CI/CD and observability.
-
-**Technology**
-
-`AWS` · `Terraform` · `Docker` · `Kubernetes/EKS` · `GitHub Actions`
-· `Prometheus` · `Grafana` · `FastAPI`
-
-**Architecture**
-
-```text
-                    ┌─────────────────┐
-                    │    Developer    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     GitHub      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ GitHub Actions  │
-                    │ CI/CD Pipeline  │
-                    └────────┬────────┘
-                             │
-                     ┌───────┴────────┐
-                     ▼                ▼
-                  Testing         Docker Build
-                                      │
-                                      ▼
-                                   AWS ECR
-                                      │
-                                      ▼
-                              ┌──────────────┐
-                              │   AWS EKS    │
-                              │              │
-                              │  Pod  ─ Pod  │
-                              │      │       │
-                              │      ▼       │
-                              │     HPA      │
-                              └──────┬───────┘
-                                     │
-                                     ▼
-                              Load Balancer
-                                     │
-                                     ▼
-                                   Users
-
-             Terraform → Infrastructure Provisioning
-
-             Prometheus → Metrics
-             Grafana    → Visualization
-```
-
-🔗 **Repository:**
-https://github.com/DhirajCloud/devopsforge-cloud-platform
-
----
-
-## DevOps Architecture
-
-My preferred engineering workflow follows a simple principle:
-
-```text
-              ┌──────────────┐
-              │     Code     │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │     Git      │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │     CI       │
-              │ Test / Lint  │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │ Docker Build │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │   Registry   │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │ Kubernetes   │
-              │   / Cloud    │
-              └──────┬───────┘
-                     │
-              ┌──────┴───────┐
-              ▼              ▼
-        ┌───────────┐  ┌────────────┐
-        │ Monitoring│  │  Security  │
-        └─────┬─────┘  └──────┬─────┘
-              │               │
-              └───────┬───────┘
-                      ▼
-               Continuous
-                Improvement
+location: India
+availability: Open to DevOps & Cloud Engineering opportunities
 ```
 
 ---
 
-## Infrastructure as Code
-
-I use **Terraform** to make infrastructure repeatable, version-controlled,
-and easier to maintain.
-
-```text
-Terraform
-    │
-    ├── Networking
-    │     ├── VPC
-    │     ├── Subnets
-    │     └── Firewall Rules
-    │
-    ├── Compute
-    │     ├── VM / EC2
-    │     └── Kubernetes
-    │
-    ├── IAM
-    │
-    └── Application Infrastructure
-```
-
-The goal is simple:
-
-> **Infrastructure should be reproducible instead of manually recreated.**
-
----
-
-## Automation Mindset
-
-I focus on identifying repetitive operational work and turning it into
-repeatable automation.
-
-```text
-Manual Process
-      │
-      ▼
-Identify Repetition
-      │
-      ▼
-Automate
-      │
-      ├── Python
-      ├── Bash
-      ├── Terraform
-      └── CI/CD
-      │
-      ▼
-Measure Result
-      │
-      ▼
-Improve Reliability
-```
-
-This approach has helped reduce deployment time, infrastructure setup effort,
-manual troubleshooting and operational overhead in enterprise environments.
-
----
-
-## Reliability & Operations
-
-My experience includes:
-
-* Production infrastructure troubleshooting
-* Incident response and SLA management
-* Linux and Windows cloud infrastructure
-* OS patching and security hardening
-* IAM and access management
-* Network troubleshooting
-* Load balancing
-* Capacity planning
-* Cloud cost optimization
-* Automation of recurring operational tasks
-
-At Cognizant, I worked on GCP infrastructure automation and global
-load-balancing solutions, including systems supporting 99.99% uptime.
-
-Previously, I supported 500+ infrastructure and deployment incidents across
-GCP and AWS and developed Python/Bash automation that reduced MTTR by 25%.
-
----
-
-## Certifications
-
-* **Google Cloud Professional Cloud DevOps Engineer — 2026**
-* **Google Cloud Professional Data Engineer — 2026**
-* **Google Cloud Associate Cloud Engineer — 2024**
-
----
-
-## Currently Deepening
-
-I'm continuing to expand my cloud and DevOps engineering capabilities,
-particularly around the Google Cloud data and automation ecosystem.
-
-```text
-BigQuery
-   │
-   ▼
-Dataflow
-   │
-   ▼
-Cloud Composer
-   │
-   ▼
-Automated Data Pipelines
-```
-
-I'm also continuing to build hands-on projects around:
-
-* Kubernetes
-* CI/CD
-* Terraform
-* Cloud automation
-* Observability
-* Production deployment patterns
-* Infrastructure security
-
----
-
-## Engineering Principles
-
-```text
-01  Automate repetitive work
-02  Treat infrastructure as code
-03  Make deployments repeatable
-04  Build with security in mind
-05  Monitor what you operate
-06  Optimize for reliability and cost
-07  Keep systems understandable
-08  Continuously improve
-```
-
----
-
-## Let's Connect
-
-I'm open to conversations around **DevOps, Cloud Engineering,
-Cloud Infrastructure, CI/CD, Kubernetes, and automation opportunities.**
+## ⚡ Engineering Impact
 
 <div align="center">
 
-### Dhiraj Dwivedi
+|   99.99%   |         83%         |         40%        |         25%        |
+| :--------: | :-----------------: | :----------------: | :----------------: |
+| **UPTIME** | **FASTER RELEASES** | **COST REDUCTION** | **MTTR REDUCTION** |
 
-**DevOps Engineer | Cloud Automation & CI/CD**
+</div>
 
-📧 **[dheerajd172@gmail.com](mailto:dheerajd172@gmail.com)**
+> I focus on eliminating manual toil, automating infrastructure,
+> improving deployment velocity, and building reliable cloud platforms.
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/dhiraj-dwivedi/
+---
 
-💻 **GitHub:**
-https://github.com/DhirajCloud
+# ☁️ Cloud → Code → Production
+
+```text
+                         ┌─────────────────┐
+                         │    DEVELOPER     │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │     GITHUB      │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │      CI / CD            │
+                    │                         │
+                    │  Test → Build → Deploy  │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                         ┌─────────────────┐
+                         │     DOCKER      │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │    REGISTRY     │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │       KUBERNETES        │
+                    │                         │
+                    │    GKE       EKS        │
+                    └────────────┬────────────┘
+                                 │
+                    ┌────────────┴────────────┐
+                    ▼                         ▼
+              ┌───────────┐             ┌───────────┐
+              │ Monitoring │             │ Security  │
+              └─────┬─────┘             └─────┬─────┘
+                    │                         │
+                    └────────────┬────────────┘
+                                 ▼
+                         ┌─────────────────┐
+                         │   PRODUCTION    │
+                         └─────────────────┘
+```
+
+---
+
+# 🧰 Engineering Stack
+
+<div align="center">
+
+### ☁️ CLOUD
+
+<img src="https://skillicons.dev/icons?i=gcp,aws" />
+
+### ⚙️ DEVOPS
+
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,githubactions,git" />
+
+### 💻 AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
+
+### 📊 OBSERVABILITY
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+</div>
+
+---
+
+# 🚀 Featured Engineering
+
+## 01 · Zero-Downtime Deployment
+
+**Production-style deployment automation**
+
+```text
+Git Push
+   │
+   ▼
+CI Pipeline
+   │
+   ├── Test
+   ├── Validate
+   └── Build
+        │
+        ▼
+     Docker
+        │
+        ▼
+   Kubernetes
+        │
+        ▼
+ Rolling Update
+        │
+        ▼
+ Health Check
+        │
+        ▼
+  Production
+```
+
+**Built with**
+
+`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+
+**Repository**
+
+→ https://github.com/DhirajCloud/zero-downtime-deployment
+
+---
+
+## 02 · DevOpsForge Cloud Platform
+
+**End-to-end cloud-native DevOps platform**
+
+```text
+                  GitHub
+                     │
+                     ▼
+              GitHub Actions
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+           Testing       Docker
+                            │
+                            ▼
+                           ECR
+                            │
+                            ▼
+                           EKS
+                            │
+                     ┌──────┴──────┐
+                     ▼             ▼
+                    Pod           Pod
+                     │             │
+                     └──────┬──────┘
+                            ▼
+                           HPA
+                            │
+                            ▼
+                     Load Balancer
+                            │
+                            ▼
+                          Users
+```
+
+**Infrastructure**
+
+`Terraform` · `AWS` · `EKS` · `ECR`
+
+**Application**
+
+`FastAPI` · `Python` · `Docker`
+
+**Observability**
+
+`Prometheus` · `Grafana`
+
+**Repository**
+
+→ https://github.com/DhirajCloud/devopsforge-cloud-platform
+
+---
+
+# 🏗️ Infrastructure as Code
+
+```text
+                TERRAFORM
+                    │
+          ┌─────────┼─────────┐
+          ▼         ▼         ▼
+       NETWORK    COMPUTE     IAM
+          │         │         │
+          └─────────┼─────────┘
+                    ▼
+             CLOUD PLATFORM
+```
+
+Infrastructure should be:
+
+```text
+Repeatable
+     ↓
+Version Controlled
+     ↓
+Reviewable
+     ↓
+Automated
+     ↓
+Reproducible
+```
+
+---
+
+# 🔄 My DevOps Workflow
+
+```text
+       PLAN
+         │
+         ▼
+       CODE
+         │
+         ▼
+       TEST
+         │
+         ▼
+       BUILD
+         │
+         ▼
+      DEPLOY
+         │
+         ▼
+      MONITOR
+         │
+         ▼
+      IMPROVE
+         │
+         └───────────────↺
+```
+
+---
+
+# 🧠 What I Work On
+
+```text
+Cloud Infrastructure
+        │
+        ├── GCP
+        └── AWS
+
+Infrastructure Automation
+        │
+        └── Terraform
+
+Application Delivery
+        │
+        ├── GitHub Actions
+        ├── CI/CD
+        └── Release Automation
+
+Containers
+        │
+        ├── Docker
+        └── Kubernetes
+
+Automation
+        │
+        ├── Python
+        └── Bash
+
+Operations
+        │
+        ├── Linux
+        ├── Networking
+        ├── IAM
+        └── Incident Response
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DhirajCloud&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajCloud&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DhirajCloud&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DhirajCloud/DhirajCloud/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 Currently Building
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🚀 Zero-Downtime Deployment                 │
+│  ☁️  Cloud Infrastructure                    │
+│  ☸️  Kubernetes Platforms                    │
+│  🏗️  Terraform Automation                   │
+│  📊 Observability                            │
+│  🔐 Cloud Security                           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🏅 Certifications
+
+**Google Cloud Professional Cloud DevOps Engineer — 2026**
+
+**Google Cloud Professional Data Engineer — 2026**
+
+**Google Cloud Associate Cloud Engineer — 2024**
+
+---
+
+# 💼 Professional Focus
+
+```text
+GCP
+ │
+ ├── Compute Engine
+ ├── GKE
+ ├── VPC
+ ├── IAM
+ ├── Load Balancing
+ ├── Cloud Storage
+ └── BigQuery
+
+AWS
+ │
+ ├── EC2
+ ├── S3
+ ├── VPC
+ ├── IAM
+ ├── CloudWatch
+ └── ELB
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Building cloud infrastructure?
+
+### Working on a DevOps problem?
+
+### Looking for a Cloud / DevOps Engineer?
+
+<br/>
+
+<a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
+<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dheerajd172@gmail.com">
+<img src="https://img.shields.io/badge/Email-dheerajd172%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DhirajCloud">
+<img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Dhiraj Dwivedi**
+
+`DevOps Engineer` · `Cloud Automation` · `CI/CD`
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Automate · Deploy · Observe · Improve
+
+<sub>Built with engineering, automation and a little bit of ☕</sub>
 
 </div>
