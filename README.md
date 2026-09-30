@@ -1,371 +1,303 @@
-# Hi, I'm Dhiraj 👋
+# Hello I'm Dhiraj
 
-### Cloud & DevOps Engineer | GCP | AWS | Kubernetes | Terraform | Docker | CI/CD
+### Cloud & DevOps Engineer | GCP | AWS | Kubernetes | Terraform | Docker
 
 <p align="center">
   <a href="https://github.com/DhirajCloud">
-    <img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## ☁️ About Me
+## About
 
-I'm a **Cloud & DevOps Engineer** focused on building, automating, and troubleshooting cloud infrastructure and cloud-native applications.
+I'm a **Cloud & DevOps Engineer** focused on cloud infrastructure, containerized applications, Kubernetes, Infrastructure as Code, CI/CD, Linux systems, and automation.
 
-My primary cloud focus is **Google Cloud Platform (GCP)**, with hands-on work across **AWS, Kubernetes, Docker, Terraform, Linux, Python, Bash, CI/CD, monitoring, and automation**.
+My primary cloud focus is **Google Cloud Platform**, with hands-on experience across **AWS** and cloud-native technologies.
 
-I prefer learning by building real projects and working through the complete engineering workflow:
+I build and troubleshoot infrastructure with an emphasis on:
 
-```text
-Infrastructure
-      ↓
-Infrastructure as Code
-      ↓
-Containers
-      ↓
-Kubernetes
-      ↓
-CI/CD
-      ↓
-Monitoring & Reliability
-```
-
-My focus is on creating infrastructure and deployment workflows that are **repeatable, automated, version-controlled, observable, and maintainable**.
+* Cloud infrastructure
+* Kubernetes and container orchestration
+* Terraform and Infrastructure as Code
+* Docker and containerized applications
+* CI/CD automation
+* Linux administration
+* Python and Bash automation
+* Monitoring and observability
+* Cloud networking and IAM
 
 ---
 
-## 🧰 Engineering Stack
+## Technical Stack
 
-| Area                          | Technologies                                             |
-| ----------------------------- | -------------------------------------------------------- |
-| ☁️ Cloud                      | **GCP**, AWS                                             |
-| ☸️ Containers & Orchestration | **Docker**, **Kubernetes**, **GKE**, EKS                 |
-| 🏗️ Infrastructure as Code    | **Terraform**, Ansible                                   |
-| 🚀 CI/CD                      | **GitHub Actions**, Git, CI/CD pipelines                 |
-| 🐧 Systems & Automation       | **Linux**, **Bash**, **Python**                          |
-| 📊 Monitoring & Observability | **Prometheus**, **Grafana**                              |
-| 🔐 Infrastructure             | IAM, networking, cloud security, automation, reliability |
+| Domain                     | Technologies                       |
+| -------------------------- | ---------------------------------- |
+| **Cloud**                  | GCP, AWS                           |
+| **Containers**             | Docker                             |
+| **Kubernetes**             | Kubernetes, GKE, EKS               |
+| **Infrastructure as Code** | Terraform                          |
+| **CI/CD**                  | GitHub Actions, Git                |
+| **Operating Systems**      | Linux                              |
+| **Automation**             | Python, Bash                       |
+| **Monitoring**             | Prometheus, Grafana                |
+| **Cloud Infrastructure**   | Compute, networking, IAM, security |
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## ⚙️ DevOpsForge Cloud Platform
+## DevOpsForge Cloud Platform
 
-A cloud-native DevOps project demonstrating application containerization, Kubernetes deployment, Infrastructure as Code, CI/CD, autoscaling, and monitoring.
+A cloud-native DevOps project covering the application lifecycle from containerization and testing through Kubernetes deployment, infrastructure provisioning, autoscaling, and monitoring.
 
-**Technology Stack**
+**Technologies**
 
-```text
-FastAPI
-Docker
-Kubernetes
-Terraform
-AWS
-ECR
-EKS
-HPA
-Prometheus
-Grafana
-GitHub Actions
-```
+`FastAPI` `Docker` `Kubernetes` `Terraform` `AWS` `ECR` `EKS` `HPA` `Prometheus` `Grafana` `GitHub Actions`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/DhirajCloud/devopsforge-cloud-platform
 
 ---
 
-## 🔄 Zero-Downtime Deployment System
+## Zero-Downtime Deployment System
 
-A DevOps-focused deployment project exploring containerized application releases, Kubernetes deployment workflows, health checks, CI/CD automation, and deployment continuity.
+A DevOps project focused on deployment automation and maintaining application availability during application releases.
 
-**Focus Areas**
+The project explores containerized deployments, Kubernetes, health checks, CI/CD workflows, and deployment strategies.
 
-```text
-Docker
-Kubernetes
-CI/CD
-Health Checks
-Deployment Automation
-Rolling Deployments
-Rollback Concepts
-```
+**Technologies**
 
-🔗 **Repository:**
+`Docker` `Kubernetes` `CI/CD` `Health Checks` `Deployment Automation`
+
+**Repository:**
 https://github.com/DhirajCloud/zero-downtime-deployment
 
 ---
 
-## ☁️ AWS VPC Infrastructure
+## AWS VPC Infrastructure
 
-Infrastructure-as-Code project focused on designing and provisioning AWS networking infrastructure using Terraform.
+Infrastructure as Code project for provisioning and managing AWS networking infrastructure using Terraform.
 
-**Technology Stack**
+**Technologies**
 
-```text
-AWS
-Terraform
-VPC
-Networking
-Infrastructure as Code
-```
+`AWS` `Terraform` `VPC` `Networking` `IaC`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/DhirajCloud/AWS-VPC-Infrastructure
 
 ---
 
-## 🌐 Deploy Your Website on Cloud Run
+## Deploy Your Website on Cloud Run
 
-A Google Cloud project focused on deploying a web application using **Google Cloud Run** and cloud-native deployment concepts.
+Google Cloud project demonstrating deployment of a web application using **Cloud Run**.
 
-**Technology Stack**
+**Technologies**
 
-```text
-GCP
-Cloud Run
-Containerization
-Cloud Deployment
-```
+`GCP` `Cloud Run` `Containerization`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/DhirajCloud/Deploy-Your-Website-on-Cloud-Run-GSP659-
 
 ---
 
-## 🐍 REST API Health Checker
+## REST API Health Checker
 
-A Python automation project designed to check API endpoint health, HTTP responses, status information, and connectivity.
+Python automation project for checking REST API availability, HTTP responses, and endpoint health.
 
-**Technology Stack**
+**Technologies**
 
-```text
-Python
-REST APIs
-HTTP
-Automation
-Health Checks
-```
+`Python` `REST API` `HTTP` `Automation`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/DhirajCloud/rest-api-health-checker
 
 ---
 
-## ⚙️ Multi-Server Configuration Generator
+## Multi-Server Configuration Generator
 
-A Python and YAML-based automation project for generating environment-specific server configurations.
+Python and YAML-based automation project for generating environment-specific server configuration files.
 
-**Technology Stack**
+**Technologies**
 
-```text
-Python
-YAML
-Configuration Management
-Automation
-```
+`Python` `YAML` `Configuration Management` `Automation`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/DhirajCloud/Multi-Server-Configuration-Generator
 
 ---
 
-# 🏗️ What I'm Building
+# Cloud & DevOps Workflow
+
+My projects typically follow a workflow similar to:
 
 ```text
-GCP Cloud Engineering
-├── Cloud Infrastructure
-├── Networking
-├── Cloud-native deployments
-├── Kubernetes / GKE
-└── Infrastructure automation
-
-DevOps Engineering
-├── Docker
-├── Kubernetes
-├── GitHub Actions
-├── Terraform
-└── Deployment automation
-
-Cloud Automation
-├── Python
-├── Bash
-├── Linux
-├── Monitoring
-└── Observability
+        Source Code
+             │
+             ▼
+      Git / GitHub
+             │
+             ▼
+        CI / Testing
+             │
+             ▼
+          Docker
+             │
+             ▼
+     Container Registry
+             │
+             ▼
+        Kubernetes
+             │
+             ▼
+     Cloud Infrastructure
+             │
+             ▼
+   Monitoring & Observability
 ```
 
----
-
-# 🎯 Core Focus
-
-* ☁️ **Cloud Infrastructure** — GCP first, AWS
-* ☸️ **Kubernetes & Container Orchestration**
-* 🏗️ **Infrastructure as Code with Terraform**
-* 🚀 **CI/CD & Deployment Automation**
-* 🐳 **Docker & Cloud-Native Applications**
-* 🐧 **Linux Systems & Troubleshooting**
-* 🐍 **Python & Bash Automation**
-* 📊 **Monitoring & Observability**
-* 🔐 **Cloud Infrastructure Security**
-* ⚙️ **DevOps & Platform Engineering**
+Infrastructure is managed through **Infrastructure as Code** wherever applicable.
 
 ---
 
-# 🧠 Engineering Approach
+# Engineering Focus
 
-I approach cloud and DevOps projects around a simple principle:
+### ☁️ Cloud Engineering
+
+* Google Cloud Platform
+* AWS
+* Cloud infrastructure
+* Networking
+* IAM
+* Infrastructure troubleshooting
+
+### ☸️ Containers & Kubernetes
+
+* Docker
+* Kubernetes
+* GKE
+* EKS
+* Deployments
+* Services
+* Ingress
+* HPA
+
+### 🏗️ Infrastructure as Code
+
+* Terraform
+* Infrastructure provisioning
+* Environment configuration
+* Reproducible infrastructure
+
+### 🚀 DevOps & CI/CD
+
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD pipelines
+* Container build and deployment workflows
+
+### 🐧 Automation & Systems
+
+* Linux
+* Python
+* Bash
+* Shell automation
+* System administration
+
+### 📊 Monitoring
+
+* Prometheus
+* Grafana
+* Kubernetes monitoring
+* Application and infrastructure observability
+
+---
+
+# How I Approach Engineering
 
 ```text
+Understand
+    ↓
 Build
-  ↓
+    ↓
 Automate
-  ↓
-Version Control
-  ↓
+    ↓
+Test
+    ↓
 Deploy
-  ↓
+    ↓
 Monitor
-  ↓
+    ↓
+Troubleshoot
+    ↓
 Improve
 ```
 
-I focus on understanding the complete lifecycle of infrastructure and applications rather than working with individual tools in isolation.
-
-That means connecting:
-
-```text
-Cloud
-  +
-Infrastructure as Code
-  +
-Containers
-  +
-Kubernetes
-  +
-CI/CD
-  +
-Monitoring
-```
+I focus on understanding how the individual pieces work together rather than treating cloud and DevOps tools as isolated technologies.
 
 ---
 
-# 📂 Project Portfolio
+# Current Focus
 
-| Project                                  | Focus                                                |
-| ---------------------------------------- | ---------------------------------------------------- |
-| **DevOpsForge Cloud Platform**           | Kubernetes · Terraform · AWS · CI/CD · Observability |
-| **Zero-Downtime Deployment**             | Kubernetes · Docker · Deployment Automation          |
-| **AWS VPC Infrastructure**               | AWS · Terraform · Networking                         |
-| **Cloud Run Deployment**                 | GCP · Cloud Run · Containerization                   |
-| **REST API Health Checker**              | Python · REST API · Automation                       |
-| **Multi-Server Configuration Generator** | Python · YAML · Automation                           |
-
----
-
-# 🛠️ Tools I Work With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,githubactions,linux,python,bash,git,github,prometheus,grafana" />
-
-</p>
-
----
-
-# ☁️ Cloud & DevOps Workflow
-
-```text
-             ┌──────────────┐
-             │     Git      │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   CI / Test  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    Docker    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   Registry   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  Kubernetes  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  Monitoring  │
-             └──────────────┘
-```
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhirajCloud&show_icons=true&theme=transparent&hide_border=true" alt="Dhiraj's GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajCloud&theme=transparent&hide_border=true" alt="Dhiraj's GitHub streak">
-</p>
-
----
-
-# 📊 Most Used Technologies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajCloud&layout=compact&theme=transparent&hide_border=true" alt="Dhiraj's most used languages">
-</p>
-
----
-
-# 🚀 Current Direction
+I'm continuing to build practical projects around:
 
 ```text
 GCP
- ↓
-Cloud Infrastructure
- ↓
-Terraform
- ↓
-Docker
- ↓
-Kubernetes
- ↓
-CI/CD
- ↓
-Observability
- ↓
-Cloud Reliability
-```
+ ├── Cloud Infrastructure
+ ├── Networking
+ └── Cloud-native deployments
 
-I'm continuing to build practical projects around **cloud infrastructure, DevOps automation, Kubernetes, Infrastructure as Code, and cloud-native deployment workflows**.
+Kubernetes
+ ├── Containerized applications
+ ├── Deployments
+ ├── Services
+ └── Autoscaling
+
+DevOps
+ ├── Terraform
+ ├── Docker
+ ├── GitHub Actions
+ └── CI/CD
+
+Automation
+ ├── Python
+ ├── Bash
+ └── Linux
+
+Observability
+ ├── Prometheus
+ └── Grafana
+```
 
 ---
 
-# 📫 Connect With Me
+# GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajCloud&show_icons=true&hide_border=true&theme=transparent" alt="Dhiraj Dwivedi GitHub statistics">
+</p>
+
+---
+
+# Connect
 
 <p align="center">
 
 <a href="https://github.com/DhirajCloud">
-<img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="mailto:dheerajd172@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
 </p>
@@ -373,11 +305,9 @@ I'm continuing to build practical projects around **cloud infrastructure, DevOps
 ---
 
 <p align="center">
-
-### ☁️ Build Infrastructure. Automate Everything. Ship Reliably.
-
+  <strong>Cloud Infrastructure · DevOps · Kubernetes · Automation</strong>
 </p>
 
 <p align="center">
-  <sub>Cloud Infrastructure · DevOps · Kubernetes · Terraform · Automation</sub>
+  <sub>Building practical cloud and DevOps projects, one system at a time.</sub>
 </p>
