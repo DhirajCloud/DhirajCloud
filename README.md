@@ -1,462 +1,452 @@
-<div align="center">
-
-<img src="./assets/hero-dark.svg" width="100%" />
-
-<br/>
-
-<a href="https://github.com/DhirajCloud">
-<img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-&nbsp;
-<a href="mailto:dheerajd172@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Automation+Engineer;GCP+%7C+AWS+%7C+Kubernetes;Terraform+%7C+Docker+%7C+CI%2FCD;Automating+Infrastructure.+Improving+Reliability." />
-
-</div>
-
----
-
-# `whoami`
-
-```yaml
-name: Dhiraj Dwivedi
-role: DevOps Engineer
-focus:
-  - Cloud Infrastructure
-  - DevOps Automation
-  - CI/CD
-  - Kubernetes
-  - Infrastructure as Code
-
-primary_cloud: Google Cloud Platform
-secondary_cloud: AWS
-
-automation:
-  - Terraform
-  - Python
-  - Bash
-  - GitHub Actions
-
-containers:
-  - Docker
-  - Kubernetes
-  - GKE
-
-location: India
-availability: Open to DevOps & Cloud Engineering opportunities
-```
+Create a premium, recruiter-focused GitHub Profile README.md for my GitHub account.
 
----
-
-## ⚡ Engineering Impact
-
-<div align="center">
-
-|   99.99%   |         83%         |         40%        |         25%        |
-| :--------: | :-----------------: | :----------------: | :----------------: |
-| **UPTIME** | **FASTER RELEASES** | **COST REDUCTION** | **MTTR REDUCTION** |
-
-</div>
-
-> I focus on eliminating manual toil, automating infrastructure,
-> improving deployment velocity, and building reliable cloud platforms.
-
----
-
-# ☁️ Cloud → Code → Production
-
-```text
-                         ┌─────────────────┐
-                         │    DEVELOPER     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │     GITHUB      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │      CI / CD            │
-                    │                         │
-                    │  Test → Build → Deploy  │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                         ┌─────────────────┐
-                         │     DOCKER      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    REGISTRY     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │       KUBERNETES        │
-                    │                         │
-                    │    GKE       EKS        │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    ▼                         ▼
-              ┌───────────┐             ┌───────────┐
-              │ Monitoring │             │ Security  │
-              └─────┬─────┘             └─────┬─────┘
-                    │                         │
-                    └────────────┬────────────┘
-                                 ▼
-                         ┌─────────────────┐
-                         │   PRODUCTION    │
-                         └─────────────────┘
-```
-
----
-
-# 🧰 Engineering Stack
-
-<div align="center">
-
-### ☁️ CLOUD
-
-<img src="https://skillicons.dev/icons?i=gcp,aws" />
-
-### ⚙️ DEVOPS
-
-<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,githubactions,git" />
-
-### 💻 AUTOMATION
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux" />
-
-### 📊 OBSERVABILITY
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-
-</div>
-
----
-
-# 🚀 Featured Engineering
-
-## 01 · Zero-Downtime Deployment
-
-**Production-style deployment automation**
-
-```text
-Git Push
-   │
-   ▼
-CI Pipeline
-   │
-   ├── Test
-   ├── Validate
-   └── Build
-        │
-        ▼
-     Docker
-        │
-        ▼
-   Kubernetes
-        │
-        ▼
- Rolling Update
-        │
-        ▼
- Health Check
-        │
-        ▼
-  Production
-```
-
-**Built with**
-
-`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
-
-**Repository**
-
-→ https://github.com/DhirajCloud/zero-downtime-deployment
-
----
-
-## 02 · DevOpsForge Cloud Platform
-
-**End-to-end cloud-native DevOps platform**
-
-```text
-                  GitHub
-                     │
-                     ▼
-              GitHub Actions
-                     │
-              ┌──────┴──────┐
-              ▼             ▼
-           Testing       Docker
-                            │
-                            ▼
-                           ECR
-                            │
-                            ▼
-                           EKS
-                            │
-                     ┌──────┴──────┐
-                     ▼             ▼
-                    Pod           Pod
-                     │             │
-                     └──────┬──────┘
-                            ▼
-                           HPA
-                            │
-                            ▼
-                     Load Balancer
-                            │
-                            ▼
-                          Users
-```
-
-**Infrastructure**
-
-`Terraform` · `AWS` · `EKS` · `ECR`
-
-**Application**
-
-`FastAPI` · `Python` · `Docker`
-
-**Observability**
-
-`Prometheus` · `Grafana`
-
-**Repository**
-
-→ https://github.com/DhirajCloud/devopsforge-cloud-platform
-
----
-
-# 🏗️ Infrastructure as Code
-
-```text
-                TERRAFORM
-                    │
-          ┌─────────┼─────────┐
-          ▼         ▼         ▼
-       NETWORK    COMPUTE     IAM
-          │         │         │
-          └─────────┼─────────┘
-                    ▼
-             CLOUD PLATFORM
-```
-
-Infrastructure should be:
-
-```text
-Repeatable
-     ↓
-Version Controlled
-     ↓
-Reviewable
-     ↓
-Automated
-     ↓
-Reproducible
-```
-
----
-
-# 🔄 My DevOps Workflow
-
-```text
-       PLAN
-         │
-         ▼
-       CODE
-         │
-         ▼
-       TEST
-         │
-         ▼
-       BUILD
-         │
-         ▼
-      DEPLOY
-         │
-         ▼
-      MONITOR
-         │
-         ▼
-      IMPROVE
-         │
-         └───────────────↺
-```
+GitHub:
+https://github.com/DhirajCloud
 
----
+Name:
+Dhiraj Dwivedi
 
-# 🧠 What I Work On
+Target roles:
 
-```text
-Cloud Infrastructure
-        │
-        ├── GCP
-        └── AWS
+* DevOps Engineer
 
-Infrastructure Automation
-        │
-        └── Terraform
+The purpose of this README is to make my GitHub profile immediately understandable and attractive to recruiters and hiring managers.
 
-Application Delivery
-        │
-        ├── GitHub Actions
-        ├── CI/CD
-        └── Release Automation
+IMPORTANT:
+This must look like a professional Cloud/DevOps engineer's portfolio — NOT a generic developer README.
 
-Containers
-        │
-        ├── Docker
-        └── Kubernetes
+Do not invent:
 
-Automation
-        │
-        ├── Python
-        └── Bash
+* Experience
+* Certifications
+* Technologies
+* Companies
+* Metrics
+* Projects
+* LinkedIn URL
+* Email address
 
-Operations
-        │
-        ├── Linux
-        ├── Networking
-        ├── IAM
-        └── Incident Response
-```
+Use only information that is actually provided or available from my projects/resume.
 
----
+━━━━━━━━━━━━━━━━━━━━━━
+HERO SECTION — MOST IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━
 
-# 📈 GitHub Activity
+At the very top, create a premium hero section containing:
 
-<div align="center">
+# Dhiraj Dwivedi
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhirajCloud&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+## DevOps Engineer | Cloud Engineer | GCP | AWS | Kubernetes | Terraform | CI/CD
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajCloud&layout=compact&hide_border=true&theme=transparent" height="170"/>
+Immediately below my name/title, show my contact information:
 
-</div>
+🔗 LinkedIn: [MY ACTUAL LINKEDIN URL]
+✉️ Email: [MY ACTUAL PROFESSIONAL EMAIL]
 
-<br/>
+Make LinkedIn and Email clearly visible without requiring the recruiter to scroll.
 
-<div align="center">
+Use professional clickable badges/buttons for LinkedIn and Email.
 
-<img src="https://streak-stats.demolab.com?user=DhirajCloud&theme=transparent&hide_border=true" />
+IMPORTANT:
+LinkedIn and Email must appear ONLY ONCE in the entire README.
 
-</div>
+Do NOT create another Contact section at the bottom.
 
----
+Do NOT repeat the LinkedIn URL or email anywhere else.
 
-# 🐍 Contribution Activity
+GitHub can be referenced through the profile itself, but do not unnecessarily repeat the GitHub URL multiple times.
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+ANIMATED HERO
+━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://raw.githubusercontent.com/DhirajCloud/DhirajCloud/output/github-contribution-grid-snake.svg" />
+Add a professional animated typing effect below the contact links.
 
-</div>
+Use phrases such as:
 
----
+"Building Reliable Cloud Infrastructure"
+"Automating DevOps Workflows"
+"Cloud-Native Infrastructure"
+"Kubernetes & Container Platforms"
+"Infrastructure as Code"
+"CI/CD & Cloud Automation"
 
-# 🎯 Currently Building
+Use a clean SVG-based animation that works properly on GitHub.
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🚀 Zero-Downtime Deployment                 │
-│  ☁️  Cloud Infrastructure                    │
-│  ☸️  Kubernetes Platforms                    │
-│  🏗️  Terraform Automation                   │
-│  📊 Observability                            │
-│  🔐 Cloud Security                           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+Keep the animation subtle and professional.
 
----
+Do NOT use flashy or distracting animations.
 
-# 🏅 Certifications
+━━━━━━━━━━━━━━━━━━━━━━
+PROFESSIONAL INTRODUCTION
+━━━━━━━━━━━━━━━━━━━━━━
 
-**Google Cloud Professional Cloud DevOps Engineer — 2026**
+Write a short 3–4 line professional introduction.
 
-**Google Cloud Professional Data Engineer — 2026**
+Position me as a hands-on Cloud/DevOps engineer focused on:
 
-**Google Cloud Associate Cloud Engineer — 2024**
+* Cloud infrastructure
+* DevOps automation
+* Infrastructure as Code
+* Kubernetes
+* CI/CD
+* Docker
+* Linux
+* Python/Bash automation
+* Monitoring and observability
+* Cloud troubleshooting
 
----
+The introduction should sound natural and human.
 
-# 💼 Professional Focus
+Avoid generic phrases such as:
 
-```text
+"I am passionate about technology."
+
+Instead focus on what I actually build and work with.
+
+━━━━━━━━━━━━━━━━━━━━━━
+TECHNICAL SKILLS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Create a clean, visually attractive technical skills section.
+
+Group technologies into:
+
+☁️ Cloud
+⚙️ DevOps & CI/CD
+🐳 Containers & Kubernetes
+🏗️ Infrastructure as Code
+🐧 Operating Systems
+💻 Programming & Automation
+📊 Monitoring & Observability
+🔐 Security & Networking
+
+Use professional technology icons/badges.
+
+Prioritize:
+
 GCP
- │
- ├── Compute Engine
- ├── GKE
- ├── VPC
- ├── IAM
- ├── Load Balancing
- ├── Cloud Storage
- └── BigQuery
-
 AWS
- │
- ├── EC2
- ├── S3
- ├── VPC
- ├── IAM
- ├── CloudWatch
- └── ELB
-```
+Docker
+Kubernetes
+Terraform
+GitHub Actions
+Git
+GitHub
+Linux
+Python
+Bash
+Prometheus
+Grafana
+CI/CD
+Infrastructure as Code
 
----
+Only include technologies supported by my actual experience/projects.
 
-# 🤝 Let's Connect
+━━━━━━━━━━━━━━━━━━━━━━
+WHAT I BUILD
+━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+Create a concise section:
 
-### Building cloud infrastructure?
+## What I Build
 
-### Working on a DevOps problem?
+Show practical capabilities such as:
 
-### Looking for a Cloud / DevOps Engineer?
+* Cloud infrastructure
+* Containerized applications
+* Kubernetes workloads
+* CI/CD pipelines
+* Terraform infrastructure
+* Automated deployments
+* Monitoring and observability
+* Cloud infrastructure troubleshooting
+* Python/Bash operational automation
+* Secure and reproducible infrastructure
 
-<br/>
+Keep each point short.
 
-<a href="https://www.linkedin.com/in/dhiraj-dwivedi/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+━━━━━━━━━━━━━━━━━━━━━━
+FEATURED PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━
 
-<a href="mailto:dheerajd172@gmail.com">
-<img src="https://img.shields.io/badge/Email-dheerajd172%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Create a highly visible:
 
-<a href="https://github.com/DhirajCloud">
-<img src="https://img.shields.io/badge/GitHub-DhirajCloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## Featured Projects
 
-<br/><br/>
+Prioritize my strongest repositories.
 
-**Dhiraj Dwivedi**
+### DevOpsForge Cloud Platform
 
-`DevOps Engineer` · `Cloud Automation` · `CI/CD`
+Repository:
+https://github.com/DhirajCloud/devopsforge-cloud-platform
 
-</div>
+Showcase this as an end-to-end cloud-native DevOps project.
 
----
+Highlight technologies actually used, including where applicable:
 
-<div align="center">
+* FastAPI
+* Docker
+* Amazon ECR
+* Amazon EKS
+* Kubernetes
+* Terraform
+* HPA
+* GitHub Actions
+* Prometheus
+* Grafana
 
-### ⚡ Automate · Deploy · Observe · Improve
+Explain the engineering workflow:
 
-<sub>Built with engineering, automation and a little bit of ☕</sub>
+Application
+→ Containerization
+→ Container Registry
+→ Kubernetes
+→ Autoscaling
+→ Monitoring
 
-</div>
+Include:
+
+**Key Engineering Areas**
+
+* Containerization
+* Kubernetes deployment
+* Infrastructure as Code
+* CI/CD
+* Autoscaling
+* Monitoring
+
+Include a "View Repository" button.
+
+### Zero-Downtime Deployment System
+
+Repository:
+https://github.com/DhirajCloud/zero-downtime-deployment
+
+Highlight the actual technologies and implementation present in the repository.
+
+Focus on:
+
+* Zero-downtime deployment concepts
+* Deployment automation
+* Health checks
+* Traffic handling
+* Rollback/recovery
+* Containerized deployment
+
+Do not claim technologies that are not actually implemented.
+
+Include a "View Repository" button.
+
+━━━━━━━━━━━━━━━━━━━━━━
+PROJECT ARCHITECTURE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Add a professional architecture section.
+
+Where appropriate, use Mermaid.
+
+Example:
+
+Developer
+↓
+GitHub
+↓
+CI/CD
+↓
+Docker Build
+↓
+Container Registry
+↓
+Kubernetes / Cloud
+↓
+Application
+↓
+Monitoring
+
+Clearly label it as a conceptual architecture if it does not exactly represent one repository.
+
+━━━━━━━━━━━━━━━━━━━━━━
+DEVOPS ENGINEERING APPROACH
+━━━━━━━━━━━━━━━━━━━━━━
+
+Create a concise section showing how I approach engineering:
+
+Infrastructure as Code
+Automation
+Reproducible deployments
+Security
+Observability
+Reliability
+Troubleshooting
+Continuous improvement
+
+Keep this evidence-oriented and professional.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CURRENT FOCUS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Create:
+
+## Currently Exploring
+
+Include relevant areas such as:
+
+* Advanced Kubernetes
+* Cloud-native architecture
+* Terraform
+* DevOps automation
+* CI/CD
+* Observability
+* SRE practices
+* Cloud security
+
+Do not exaggerate my expertise.
+
+━━━━━━━━━━━━━━━━━━━━━━
+GITHUB ACTIVITY
+━━━━━━━━━━━━━━━━━━━━━━
+
+Add professionally selected GitHub widgets such as:
+
+* GitHub statistics
+* Contribution activity
+* Top languages
+* Contribution streak
+
+Only use reliable/current services.
+
+Do not overload the page with statistics.
+
+The projects and technical work should remain more prominent than the statistics.
+
+━━━━━━━━━━━━━━━━━━━━━━
+RECRUITER-FOCUSED KEYWORDS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Naturally incorporate relevant keywords throughout the README:
+
+DevOps Engineer
+Cloud Engineer
+GCP
+AWS
+Kubernetes
+Docker
+Terraform
+CI/CD
+GitHub Actions
+Linux
+Python
+Bash
+Infrastructure as Code
+Cloud Infrastructure
+Cloud Automation
+SRE
+Monitoring
+Observability
+Containerization
+
+Do not keyword-stuff.
+
+━━━━━━━━━━━━━━━━━━━━━━
+DESIGN REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the profile:
+
+* Premium
+* Modern
+* Professional
+* Dark-themed
+* Recruiter-friendly
+* Easy to scan
+* Mobile-friendly
+* Visually balanced
+
+Use:
+
+* Clean section separators
+* Technology icons
+* Professional badges
+* Subtle animations
+* Consistent typography
+* Good whitespace
+* GitHub-compatible Markdown
+
+Avoid:
+
+* Excessive emojis
+* Huge paragraphs
+* Flashy animations
+* Fake statistics
+* Fake certifications
+* Fake achievements
+* Generic motivational quotes
+* Repeated information
+* Duplicate contact information
+
+━━━━━━━━━━━━━━━━━━━━━━
+CONTACT RULE — VERY IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━
+
+LinkedIn and Email must appear ONLY in the HERO SECTION at the very beginning.
+
+They must NOT appear:
+
+* At the bottom
+* In a separate Contact section
+* In the footer
+* Repeated inside project sections
+* Repeated inside badges elsewhere
+
+The README should have exactly ONE visible LinkedIn link and ONE visible email link.
+
+The hero should effectively communicate:
+
+Dhiraj Dwivedi
+DevOps Engineer | Cloud Engineer
+
+[LinkedIn] [Email]
+
+[Animated professional headline]
+
+[Short introduction]
+
+Then continue into technical skills and projects.
+
+━━━━━━━━━━━━━━━━━━━━━━
+FOOTER
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT create a contact section in the footer.
+
+Instead finish with a minimal professional statement such as:
+
+"Build • Automate • Deploy • Observe • Improve"
+
+Keep the footer clean.
+
+━━━━━━━━━━━━━━━━━━━━━━
+FINAL OUTPUT
+━━━━━━━━━━━━━━━━━━━━━━
+
+Provide:
+
+1. Complete ready-to-paste README.md
+2. Premium animated hero SVG if required
+3. Premium dark/light banner SVG if useful
+4. Exact filenames
+5. Where each SVG should be placed
+6. Git commands to add, commit and push
+7. A professional commit message
+
+The final README should make a recruiter immediately understand:
+
+WHO I AM
+WHAT I DO
+WHAT TECHNOLOGIES I USE
+WHAT I HAVE BUILT
+HOW TO CONTACT ME
+
+The profile should feel like a polished professional Cloud/DevOps portfolio, not a template.
